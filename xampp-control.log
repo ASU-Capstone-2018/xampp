@@ -1,0 +1,265 @@
+11:40:11 PM  [main] 	Initializing Control Panel
+11:40:11 PM  [main] 	Windows Version:  Home  64-bit
+11:40:11 PM  [main] 	XAMPP Version: 7.3.3
+11:40:11 PM  [main] 	Control Panel Version: 3.2.3  [ Compiled: Mar 7th 2019 ]
+11:40:11 PM  [main] 	You are not running with administrator rights! This will work for
+11:40:11 PM  [main] 	most application stuff but whenever you do something with services
+11:40:11 PM  [main] 	there will be a security dialogue or things will break! So think 
+11:40:11 PM  [main] 	about running this application with administrator rights!
+11:40:11 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+11:40:11 PM  [main] 	Checking for prerequisites
+11:40:11 PM  [main] 	All prerequisites found
+11:40:11 PM  [main] 	Initializing Modules
+11:40:11 PM  [Apache] 	Problem detected!
+11:40:11 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5784!
+11:40:11 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+11:40:11 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+11:40:11 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+11:40:11 PM  [main] 	The Mercury module is disabled
+11:40:11 PM  [main] 	Starting Check-Timer
+11:40:11 PM  [main] 	Control Panel Ready
+3:24:09 PM  [Apache] 	Status change detected: running
+3:24:10 PM  [Apache] 	Status change detected: stopped
+3:24:10 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+3:24:10 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+3:24:10 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+3:24:10 PM  [Apache] 	Press the Logs button to view error logs and check
+3:24:10 PM  [Apache] 	the Windows Event Viewer for more clues
+3:24:10 PM  [Apache] 	If you need more help, copy and post this
+3:24:10 PM  [Apache] 	entire log window on the forums
+3:24:11 PM  [mysql] 	Status change detected: running
+3:24:19 PM  [Apache] 	Status change detected: running
+3:24:20 PM  [Apache] 	Status change detected: stopped
+3:24:20 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+3:24:20 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+3:24:20 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+3:24:20 PM  [Apache] 	Press the Logs button to view error logs and check
+3:24:20 PM  [Apache] 	the Windows Event Viewer for more clues
+3:24:20 PM  [Apache] 	If you need more help, copy and post this
+3:24:20 PM  [Apache] 	entire log window on the forums
+3:25:01 PM  [Apache] 	Status change detected: running
+3:25:01 PM  [Apache] 	Status change detected: stopped
+3:25:01 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+3:25:01 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+3:25:01 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+3:25:01 PM  [Apache] 	Press the Logs button to view error logs and check
+3:25:01 PM  [Apache] 	the Windows Event Viewer for more clues
+3:25:01 PM  [Apache] 	If you need more help, copy and post this
+3:25:01 PM  [Apache] 	entire log window on the forums
+3:25:16 PM  [mysql] 	Status change detected: stopped
+3:25:16 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+3:25:16 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+3:25:16 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+3:25:16 PM  [mysql] 	Press the Logs button to view error logs and check
+3:25:16 PM  [mysql] 	the Windows Event Viewer for more clues
+3:25:16 PM  [mysql] 	If you need more help, copy and post this
+3:25:16 PM  [mysql] 	entire log window on the forums
+3:25:18 PM  [Apache] 	Status change detected: running
+3:25:19 PM  [Apache] 	Status change detected: stopped
+3:25:19 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+3:25:19 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+3:25:19 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+3:25:19 PM  [Apache] 	Press the Logs button to view error logs and check
+3:25:19 PM  [Apache] 	the Windows Event Viewer for more clues
+3:25:19 PM  [Apache] 	If you need more help, copy and post this
+3:25:19 PM  [Apache] 	entire log window on the forums
+3:25:20 PM  [Apache] 	Status change detected: running
+3:25:20 PM  [Apache] 	Status change detected: stopped
+3:25:20 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+3:25:20 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+3:25:20 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+3:25:20 PM  [Apache] 	Press the Logs button to view error logs and check
+3:25:20 PM  [Apache] 	the Windows Event Viewer for more clues
+3:25:20 PM  [Apache] 	If you need more help, copy and post this
+3:25:20 PM  [Apache] 	entire log window on the forums
+3:27:35 PM  [mysql] 	Status change detected: running
+3:27:37 PM  [Apache] 	Status change detected: running
+3:27:38 PM  [Apache] 	Status change detected: stopped
+3:27:38 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+3:27:38 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+3:27:38 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+3:27:38 PM  [Apache] 	Press the Logs button to view error logs and check
+3:27:38 PM  [Apache] 	the Windows Event Viewer for more clues
+3:27:38 PM  [Apache] 	If you need more help, copy and post this
+3:27:38 PM  [Apache] 	entire log window on the forums
+3:28:26 PM  [mysql] 	Status change detected: stopped
+3:28:26 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+3:28:26 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+3:28:26 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+3:28:26 PM  [mysql] 	Press the Logs button to view error logs and check
+3:28:26 PM  [mysql] 	the Windows Event Viewer for more clues
+3:28:26 PM  [mysql] 	If you need more help, copy and post this
+3:28:26 PM  [mysql] 	entire log window on the forums
+3:28:28 PM  [mysql] 	Status change detected: running
+3:28:29 PM  [Apache] 	Status change detected: running
+3:28:29 PM  [Apache] 	Status change detected: stopped
+3:28:29 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+3:28:29 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+3:28:29 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+3:28:29 PM  [Apache] 	Press the Logs button to view error logs and check
+3:28:29 PM  [Apache] 	the Windows Event Viewer for more clues
+3:28:29 PM  [Apache] 	If you need more help, copy and post this
+3:28:29 PM  [Apache] 	entire log window on the forums
+3:29:18 PM  [mysql] 	Status change detected: stopped
+3:29:18 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+3:29:18 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+3:29:18 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+3:29:18 PM  [mysql] 	Press the Logs button to view error logs and check
+3:29:18 PM  [mysql] 	the Windows Event Viewer for more clues
+3:29:18 PM  [mysql] 	If you need more help, copy and post this
+3:29:18 PM  [mysql] 	entire log window on the forums
+3:29:18 PM  [main] 	Deinitializing Modules
+3:29:18 PM  [main] 	Deinitializing Control Panel
+
+3:24:04 PM  [main] 	Initializing Control Panel
+3:24:04 PM  [main] 	Windows Version:  Home  64-bit
+3:24:04 PM  [main] 	XAMPP Version: 7.3.3
+3:24:04 PM  [main] 	Control Panel Version: 3.2.3  [ Compiled: Mar 7th 2019 ]
+3:24:04 PM  [main] 	You are not running with administrator rights! This will work for
+3:24:04 PM  [main] 	most application stuff but whenever you do something with services
+3:24:04 PM  [main] 	there will be a security dialogue or things will break! So think 
+3:24:04 PM  [main] 	about running this application with administrator rights!
+3:24:04 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+3:24:04 PM  [main] 	Checking for prerequisites
+3:24:04 PM  [main] 	All prerequisites found
+3:24:04 PM  [main] 	Initializing Modules
+3:24:04 PM  [Apache] 	Problem detected!
+3:24:04 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5784!
+3:24:04 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+3:24:04 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+3:24:04 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+3:24:04 PM  [main] 	The Mercury module is disabled
+3:24:04 PM  [main] 	Starting Check-Timer
+3:24:04 PM  [main] 	Control Panel Ready
+3:24:09 PM  [Apache] 	Problem detected!
+3:24:09 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5784!
+3:24:09 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+3:24:09 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+3:24:09 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+3:24:09 PM  [Apache] 	Attempting to start Apache app...
+3:24:09 PM  [Apache] 	Status change detected: running
+3:24:09 PM  [Apache] 	Status change detected: stopped
+3:24:09 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+3:24:09 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+3:24:09 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+3:24:09 PM  [Apache] 	Press the Logs button to view error logs and check
+3:24:09 PM  [Apache] 	the Windows Event Viewer for more clues
+3:24:09 PM  [Apache] 	If you need more help, copy and post this
+3:24:09 PM  [Apache] 	entire log window on the forums
+3:24:10 PM  [mysql] 	Attempting to start MySQL app...
+3:24:11 PM  [mysql] 	Status change detected: running
+3:24:19 PM  [Apache] 	Problem detected!
+3:24:19 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5784!
+3:24:19 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+3:24:19 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+3:24:19 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+3:24:19 PM  [Apache] 	Attempting to start Apache app...
+3:24:19 PM  [Apache] 	Status change detected: running
+3:24:19 PM  [Apache] 	Status change detected: stopped
+3:24:19 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+3:24:19 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+3:24:19 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+3:24:19 PM  [Apache] 	Press the Logs button to view error logs and check
+3:24:19 PM  [Apache] 	the Windows Event Viewer for more clues
+3:24:19 PM  [Apache] 	If you need more help, copy and post this
+3:24:19 PM  [Apache] 	entire log window on the forums
+3:25:00 PM  [Apache] 	Problem detected!
+3:25:00 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5784!
+3:25:00 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+3:25:00 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+3:25:00 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+3:25:00 PM  [Apache] 	Attempting to start Apache app...
+3:25:00 PM  [Apache] 	Status change detected: running
+3:25:01 PM  [Apache] 	Status change detected: stopped
+3:25:01 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+3:25:01 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+3:25:01 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+3:25:01 PM  [Apache] 	Press the Logs button to view error logs and check
+3:25:01 PM  [Apache] 	the Windows Event Viewer for more clues
+3:25:01 PM  [Apache] 	If you need more help, copy and post this
+3:25:01 PM  [Apache] 	entire log window on the forums
+3:25:16 PM  [mysql] 	Attempting to stop MySQL app...
+3:25:16 PM  [mysql] 	Status change detected: stopped
+3:25:18 PM  [Apache] 	Problem detected!
+3:25:18 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5784!
+3:25:18 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+3:25:18 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+3:25:18 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+3:25:18 PM  [Apache] 	Attempting to start Apache app...
+3:25:18 PM  [Apache] 	Status change detected: running
+3:25:18 PM  [Apache] 	Status change detected: stopped
+3:25:18 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+3:25:18 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+3:25:18 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+3:25:18 PM  [Apache] 	Press the Logs button to view error logs and check
+3:25:18 PM  [Apache] 	the Windows Event Viewer for more clues
+3:25:18 PM  [Apache] 	If you need more help, copy and post this
+3:25:18 PM  [Apache] 	entire log window on the forums
+3:25:19 PM  [Apache] 	Problem detected!
+3:25:20 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5784!
+3:25:20 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+3:25:20 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+3:25:20 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+3:25:20 PM  [Apache] 	Attempting to start Apache app...
+3:25:20 PM  [Apache] 	Status change detected: running
+3:25:20 PM  [Apache] 	Status change detected: stopped
+3:25:20 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+3:25:20 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+3:25:20 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+3:25:20 PM  [Apache] 	Press the Logs button to view error logs and check
+3:25:20 PM  [Apache] 	the Windows Event Viewer for more clues
+3:25:20 PM  [Apache] 	If you need more help, copy and post this
+3:25:20 PM  [Apache] 	entire log window on the forums
+3:26:43 PM  [Apache] 	Problem detected!
+3:26:43 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5784!
+3:26:43 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+3:26:43 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+3:26:43 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+3:26:43 PM  [Apache] 	Attempting to start Apache app...
+3:26:43 PM  [Apache] 	Status change detected: running
+3:26:44 PM  [Apache] 	Status change detected: stopped
+3:26:44 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+3:26:44 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+3:26:44 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+3:26:44 PM  [Apache] 	Press the Logs button to view error logs and check
+3:26:44 PM  [Apache] 	the Windows Event Viewer for more clues
+3:26:44 PM  [Apache] 	If you need more help, copy and post this
+3:26:44 PM  [Apache] 	entire log window on the forums
+3:27:35 PM  [mysql] 	Attempting to start MySQL app...
+3:27:35 PM  [mysql] 	Status change detected: running
+3:27:37 PM  [Apache] 	Problem detected!
+3:27:37 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5784!
+3:27:37 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+3:27:37 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+3:27:37 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+3:27:37 PM  [Apache] 	Attempting to start Apache app...
+3:28:26 PM  [mysql] 	Attempting to stop MySQL app...
+3:28:26 PM  [mysql] 	Status change detected: stopped
+3:28:27 PM  [mysql] 	Attempting to start MySQL app...
+3:28:27 PM  [mysql] 	Status change detected: running
+3:28:28 PM  [Apache] 	Problem detected!
+3:28:28 PM  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 5784!
+3:28:28 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+3:28:28 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+3:28:28 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+3:28:28 PM  [Apache] 	Attempting to start Apache app...
+3:28:28 PM  [Apache] 	Status change detected: running
+3:28:29 PM  [Apache] 	Status change detected: stopped
+3:28:29 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+3:28:29 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+3:28:29 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+3:28:29 PM  [Apache] 	Press the Logs button to view error logs and check
+3:28:29 PM  [Apache] 	the Windows Event Viewer for more clues
+3:28:29 PM  [Apache] 	If you need more help, copy and post this
+3:28:29 PM  [Apache] 	entire log window on the forums
+3:29:18 PM  [mysql] 	Status change detected: stopped
+3:29:18 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+3:29:18 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+3:29:18 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+3:29:18 PM  [mysql] 	Press the Logs button to view error logs and check
+3:29:18 PM  [mysql] 	the Windows Event Viewer for more clues
+3:29:18 PM  [mysql] 	If you need more help, copy and post this
+3:29:18 PM  [mysql] 	entire log window on the forums
+3:29:18 PM  [main] 	Deinitializing Modules
+3:29:18 PM  [main] 	Deinitializing Control Panel
+
